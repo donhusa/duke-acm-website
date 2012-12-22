@@ -1,0 +1,42 @@
+.eventTable {
+	width: 550px;
+	margin-left: 30px;
+	margin-right: auto;
+}
+
+.eventRowEven {
+	color: #000;
+	background-color: #eee;
+	font-size: 0.7pc;
+	text-align: left;
+}
+
+.eventRowOdd {
+	color: #000;
+	background-color: #ccc;
+	font-size: 0.7pc;
+	text-align: left;
+}
+
+.eventHeader {
+	color: #fff;
+	background-color: #333;
+	font-size: 0.8pc;
+	text-align: center;
+}
+
+.eventCell {
+	vertical-align: top;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 13px;
+}
+
+.eventName {
+	font-weight: bold;
+}
+
+.eventDateColumn {
+	width: 85px;
+	text-align: center;
+}

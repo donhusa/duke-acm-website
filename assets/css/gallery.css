@@ -1,0 +1,18 @@
+/* Stylesheet for making gallery images show up nicely, in my opinion anyway.
+
+Changelog:
+--David Winslow <cdw21@duke.edu> 9/24/2006
+Initial version
+*/
+
+img.thumbnail { padding: 10px;
+      border-color: #6F65A2;
+      border-width: 4px;
+      border-style: solid;
+      background-color: #ccc;
+    }
+
+span.imagerow {
+      text-align: center;
+      display: block;
+    }
